@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Ángel David Bohórquez 👋
 
-### 🎓 Estudiante de Ingeniería de Sistemas | Desarrollo Backend
+### 🎓 Estudiante de Ingeniería de Sistemas | Desarrollo Backend y analisi de datos
 
 Transformo ideas en soluciones tecnológicas. Me enfoco en el desarrollo Backend, aplicando pensamiento lógico, análisis y programación para resolver problemas reales.
 
